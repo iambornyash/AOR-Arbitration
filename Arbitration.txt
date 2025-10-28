@@ -1,0 +1,151 @@
+
+
+Arbitration
+
+
+Arbitration is a way to settle a dispute without going to court.
+
+When two people or companies have a disagreement (say, about a contract), they can agree to take their problem to a neutral person called an arbitrator instead of a judge.
+
+The arbitrator listens to both sides, looks at the evidence, and then makes a decision — called an award.
+
+That decision is final and binding, just like a court’s judgment.
+
+
+1. Agreement to Arbitrate
+
+Before any dispute arises, both parties usually sign an arbitration clause in their contract.
+
+It says that if any disagreement happens in the future, they won’t go to court — they’ll use arbitration instead.
+
+Even after a dispute, both parties can agree separately to go for arbitration.
+
+
+2. Choosing the Arbitrator
+
+Both sides select an arbitrator.
+
+The arbitrator is neutral — not connected to either side.
+
+Often, the parties pick someone with expert knowledge of the subject (for example, in a construction dispute, an engineer & accoding the domain expertise).
+
+
+3. Notice and Submission
+
+One party (called the claimant) sends a NOTICE of arbitration to the other, explaining what the dispute is about.
+
+Both parties then submit their claims, replies, and evidence — like documents, contracts, and witness statements.
+
+
+4. Hearing
+
+The arbitrator conducts a hearing, which is like a mini-trial but less formal.
+
+Both sides present their case, call witnesses, and argue their points.
+
+There’s no strict court procedure — it’s more flexible and quicker.
+
+
+5. The Award
+
+After listening to both sides, the arbitrator gives a written decision called an “arbitral award.”
+
+This award states who wins, what compensation or action is required, and sometimes who pays the costs.
+
+
+6. Enforcement
+
+The award is binding — it has the same effect as a court judgment.
+
+If the losing party doesn’t follow it, the winning party can go to court to enforce it.
+
+
+7. Limited Appeal
+
+Normally, you cannot appeal an arbitral award like a court case.
+
+However, under the Arbitration and Conciliation Act, 1996 (in India), you can challenge it in court only on specific grounds — like fraud, bias, or violation of natural justice.
+
+
+To be concise, Arbitration = Private, faster, expert-based, and binding way of solving disputes outside court in a genral manner. 
+
+
+
+The Period of Limitation under section 11 
+
+Under Section 11 of the Arbitration and Conciliation Act, 1996, when one party requests the other to appoint an arbitrator, the other party has 30 days to do it.
+
+If they don’t appoint an arbitrator within those 30 days, it’s considered a failure to act — and from that point, the limitation period (the time limit for filing a petition under Section 11) starts running.
+
+
+
+Party A sends a notice invoking arbitration to Party B (as per Section 21).
+This is called the invocation notice.
+
+From that day, Party B has 30 days to appoint an arbitrator (as per Section 11(4), (5), or (6)).
+
+If no appointment is made within those 30 days, Party A can then approach the High Court or Supreme Court (depending on the case) to appoint an arbitrator under Section 11.
+
+The limitation period to file such a Section 11 petition starts after those 30 days are over — i.e., from the date of failure to appoint.
+
+
+Article 137
+
+There’s no separate limitation period written in the Arbitration Act itself for a Section 11 petition.
+So, courts apply the general rule from the Limitation Act, 1963 — specifically Article 137.
+The limitation period for filing an application (like a Section 11 petition) is 3 years from the date when the right to apply accrues.
+
+
+Step 1: One party sends a notice invoking arbitration (under Section 21).
+
+Step 2: The other party has 30 days to appoint an arbitrator.
+
+Step 3: If they don’t appoint within 30 days, the “right to apply” under Section 11 arises.
+
+Step 4: From that date (the 31st day after the notice), you get 3 years to file a Section 11 petition before the court.
+
+
+Example for the same :
+
+Example:
+
+1. Notice invoking arbitration sent on 1 January 2022
+2. Other party has until 31 January 2022 to appoint
+3. They fail to appoint → right to apply arises on 1 February 2022
+4. Limitation ends on 31 January 2025 (3 years later)
+
+
+Therefore, "right to apply" comes in to picture from the 31st day of the notice sent & no response found till the 3rd year.
+
+When a party sends a notice invoking arbitration under Section 21 of the Arbitration and Conciliation Act, 1996, the opposite party is required to appoint an arbitrator within 30 days from the receipt of that notice.
+
+If the other party fails to make the appointment within those 30 days, the “right to apply” to the Court under Section 11 arises on the 31st day.
+
+From that point onward, as per Article 137 of the Limitation Act, 1963, the applicant has a period of three years to file a petition under Section 11 for appointment of an arbitrator.
+
+
+Case Laws :
+
+1. BSNL v. Nortel Networks India Pvt. Ltd., (2021) 5 SCC 738
+Held that the limitation for a Section 11 petition is 3 years from the date of failure to appoint (after 30 days of notice).
+
+
+2.  Geo Miller & Co. Pvt. Ltd. v. Rajasthan Vidyut Utpadan Nigam Ltd.
+Citation: (2020) 14 SCC 643
+Held: The cause of action for filing a Section 11 petition arises only when the other party fails to appoint the arbitrator after receiving a valid notice.
+Reiterated the 30-day rule and clarified when limitation starts.
+
+
+3. 6. Indian Oil Corporation Ltd. v. SPS Engineering Ltd.
+Citation: (2011) 3 SCC 507
+Held: The cause of action for filing a Section 11 petition arises only after the other party fails to act within 30 days of the arbitration notice.
+Reaffirmed that Article 137 applies — 3 years’ limitation from the date the right to apply accrues.
+
+4. Arif Azim Co. Ltd. v. Aptech Ltd.
+Citation: 2021 SCC OnLine SC 102
+Held: In Arif Azim Co. Ltd. v. Aptech Ltd. (2021), the Supreme Court held that a Section 11 petition must be filed within 3 years from the 31st day after a valid arbitration notice, otherwise it is barred by limitation.
+
+5. V K Dewan & Co. v. Delhi Jal Board & Anr., Delhi High Court (2022)
+By : 2022 : DHC 4039 (Judgment dated 06 October 2022)
+The Court held that once limitation begins running, subsequent withdrawal of claims or issuing fresh notice does not extend the limitation period for a Section 11 application.
+
